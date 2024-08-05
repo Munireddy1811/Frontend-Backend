@@ -1,0 +1,1 @@
+alert ("This site only vist Office admine only")
